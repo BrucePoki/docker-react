@@ -9,7 +9,6 @@ function App() {
         <p>
           WOW! This is so so so cool...<br></br>
           Let's goooooooo!
-          This is an action test!
         </p>
         <a
           className="App-link"
